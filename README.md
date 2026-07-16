@@ -101,6 +101,7 @@ This dashboard helps analyze restaurant performance and customer behavior, enabl
 
 **Ankush Thakur**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/ar1618594-stack/Mexico-restaurants-Dashboard
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/ankush-thakur-17a4423b7/
+
